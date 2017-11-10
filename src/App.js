@@ -9,7 +9,7 @@ import './App.css';
 import './css/reset.css';
 import './css/main.css';
 import './css/responsive.css';
-const apiEndPoint = 'https://access-api.corelogic.asia/access/oauth/token?client_id=7c0554bd&client_secret=a25e7cdc24ef7aad7fffafda79cfce8d&grant_type=client_credentials';
+const apiEndPoint = 'https://access-api.corelogic.asia/access/oauth/token?client_id=XXXXXXX&client_secret=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&grant_type=client_credentials';
 
 class App extends Component {
 
