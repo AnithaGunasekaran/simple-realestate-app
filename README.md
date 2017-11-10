@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). A simple realestate listing app which fetches the listing information from Sandbox versions of Corelogic API.
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). A simple realestate listing microsite which fetches the listing information from Sandbox version of Corelogic API.
 
 
 For the project to build, **these files must exist with exact filenames**:
