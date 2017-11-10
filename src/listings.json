@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "img": "https://rimh2.domainstatic.com.au/SPdJhLm0pYYlSM990k4EBCRG5vs=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013967837_1_pi_171030_105103-w1600-h1200",
+        "address": "51 Chester Street, MERRYLANDS NSW 2160",
+        "price" :"Auction",
+        "bedrooms" : "5",
+        "bathrooms" : "5",
+        "parking": "2"
+    },
+    {
+        "id" : 2,
+        "img":"https://rimh2.domainstatic.com.au/n3oshE83Mr6ICveS2hb5Ykd5i5c=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013968089_1_0_171030_114709-w1600-h1067",
+        "address": "51 Chester Street, MERRYLANDS NSW 2160",
+        "price" :"Auction",
+        "bedrooms" : "4",
+        "bathrooms" : "1",
+        "parking": "1"
+    },
+    {
+        "id" : 3,
+        "img":"https://rimh2.domainstatic.com.au/nB0FRx_gXNv2z8HqKj3WnRTMPY0=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013967041_1_pi_171030_073505-w800-h533",
+        "address": "16 Harper Street, MERRYLANDS NSW 2160",
+        "price" :"Contact Agent",
+        "bedrooms" : "3",
+        "bathrooms" : "2",
+        "parking": "2"
+    },
+    {
+        "id" : 4,
+        "img":"https://rimh2.domainstatic.com.au/82jikAlNH_uD33z3wlWziy8RzCI=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013971653_1_pi_171102_012515-w5072-h3381",
+        "address": "33A Binda Street, MERRYLANDS NSW 2160",
+        "price" :"$855,000-$895,000",
+        "bedrooms" : "5",
+        "bathrooms" : "3",
+        "parking": "1"
+    },
+    {
+        "id" : 5,
+        "img":"https://rimh2.domainstatic.com.au/yq4t9dXOsp1WuuKPebXlm_BOu20=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013973452_1_pi_171101_041539-w1600-h1068",
+        "address": "1/29 Military Road, MERRYLANDS NSW 2160",
+        "price" :"$610,000",
+        "bedrooms" : "2",
+        "bathrooms" : "1",
+        "parking": "1"
+    },
+    {
+        "id" : 6,
+        "img":"https://rimh2.domainstatic.com.au/AqduQWceKCzdGbscL6awoskIzAs=/660x440/filters:format(jpeg):quality(80)/https://bucket-api.domain.com.au/v1/bucket/image/2013973337_2_pi_171101_040728-w1600-h1068",
+        "address": "5/29 Military Road, MERRYLANDS NSW 2160",
+        "price" :"$550,000",
+        "bedrooms" : "1",
+        "bathrooms" : "1",
+        "parking": "1"
+    }
+
+]
